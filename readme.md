@@ -9,4 +9,4 @@
 ## Content generation process:
 - Read `Recovery Keys - Key Rotation process:`.
 
-![alt text](https://github.com/recovery-keys/mar2026/blob/master/mar-2026_flow.png)
+![alt text]([https://github.com/recovery-keys/mar2026/blob/master/mar-2026_flow.png](https://raw.githubusercontent.com/recovery-keys/mar2026/refs/heads/main/mar-2026_flow.png))
