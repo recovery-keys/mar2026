@@ -15,7 +15,7 @@
 | 10 | 1st name of the tattoo artist who did I's 1st tattoo | single word  | 
 | 11 | i's 1st major injured was due to a ____ viski bottel. | single word  | 
 | 12 | 1st name of the person who did I's piercing? (guy with a ponytail)  | single word  | 
-| 13 | n's 1st bjj club  | abbrivation  | 
+| 13 | n's 1st bjj club  | abbreviation  | 
 | 14 | n's rival's best bjj move  | single word  | 
 | 15 | i's best teacher's favourite move?  | two words  | 
 | 16 | n & i's 1st theme park was a success due to  | single word  | 
@@ -58,11 +58,11 @@
 | 53 | when i went to police due to ict case, i was infected with _____?   | name of the disease |
 | 54 | i met the lecturere who borrowed 10k from me when i was in _____? | name of the suberb |
 | 55 | i met lankanatha at a ____? | place |
-| 56 | lankanath helped me to get prep. for ____ exam. | abbrivation |
-| 57 | i met the lecture who recomend me to become a teacher when I was studying at ___ | abbrivation |
-| 58 | hc case was finished in year ____? | key file |
-| 59 | hc case startd in year _____? | key file |
-| 60 | hc case wepon | image  |
+| 56 | lankanath helped me to get prep. for ____ exam. | abbreviation |
+| 57 | i met the lecture who recomend me to become a teacher when I was studying at ___ | abbreviation |
+| 58 | hc case was finished in year ____? | number |
+| 59 | hc case started in year _____? | number |
+| 60 | hc case weapon | image  |
 | 61 | junior lawyer who draged ict and hc case was from ____?  | name of the suberb |
 | 62 | resembles pabs in color | image  |
 | 63 | Lake Ellio _____ was located in which state? | single word |
@@ -77,22 +77,28 @@
 | 72 | panchi roll is from  | image/word  | 
 | 73 | type of the dog breed in kalua's place ? | single word |
 | 74 | place after left pabs house has too many ______ | plural word |
-| 75 | ressembles the both owners of the sheep next door | single word |
+| 75 | resembles the both owners of the sheep next door | single word |
 | 76 | james kuka's 1st name _____ | single word |
-| 77 | dna-rna-sequencying is from ___ | image/word |
+| 77 | dna-rna-sequencing is from ___ | image/word |
 | 78 | old-acer laptop cover sticker | image |
 | 79 | We camped at lake Ellio _____ | single word |
 | 80 | website name who taught us 1st subject | single word  |
-| 81 | With Sulthan Farid & queen Anne we had ____ BBQ | image |
-| 82 | Sulthan Farid is from _____ country | image |
+| 81 | With Sultan Farid & queen Anne we had ____ BBQ | image |
+| 82 | Sultan Farid is from _____ country | image |
 | 83 | Queen Anne is from _____ country | image |
 | 84 | breed of the cat suduammi  | single word |
-| 85 | ict case complaint was made when we were in ____? | name of the suberb |
+| 85 | ict case complaint was made when we were in ____? | name of the suburb |
 | 86 | country of the - best salsa teacher | image |
 | 87 | IDM 1st batch number   | number  | 
-| 88 | country of the - best bjj teacher | abbrivation |
+| 88 | country of the - best bjj teacher | abbreviation |
 | 89 | HC case went for over ____ years. | number |
-| 90 | first name - mountain guid we 1st did alphine training  | single word |
+| 90 | first name - mountain guid we 1st did alpine training  | single word |
 | 91 | n's father's perfume?  | image  | 
 | 92 | 1st overnight hike was with ____ & bada das.  | single word  | 
-| 93 | 1st overnight hike cofrontation was due to ___ ____.  | two words | 
+| 93 | 1st overnight hike confrontation was due to ___ ____.  | two words | 
+| 94 | n was born in ____.  | number | 
+| 95 | n's 1st pre-school teacher ____.  | single word | 
+| 96 | 1st bank account name.  | two words | 
+| 97 | first apartment was on ____ floor.  | single words | 
+| 98 | N started 1st job in year.  | number | 
+| 99 | n's first school friend is from _____  | single work | 
